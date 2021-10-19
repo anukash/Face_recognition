@@ -17,6 +17,5 @@ pip install opencv-python
 
 # face recognition results
 
+![facerecognition-output1](https://user-images.githubusercontent.com/51228517/137918501-8032ec89-2265-4d8d-93b5-71566dce9050.gif)
 
-
-https://user-images.githubusercontent.com/51228517/137917559-c267259e-cd25-481e-84b6-90c0d0619ba9.mp4
